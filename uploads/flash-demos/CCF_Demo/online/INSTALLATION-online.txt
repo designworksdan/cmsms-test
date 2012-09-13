@@ -1,0 +1,5 @@
+NOTES FOR ONLINE INSTALLATION
+
+1) When uploading to server, make sure to maintain the folder structure that currently exists after unzipping the files. You should have one html page, one SWF file, and one folder containing three individual SWF movies.
+
+2) The file, <CCFdemo-online.swf> is the user interface. This is the only SWF that needs to be embedded into the HTML. The SWF's that are located inside of the movies folder will load automatically as long as the folder structure is maintained on the server.

@@ -1,0 +1,15 @@
+.DS_STORE
+tmp/cache/*.dat
+tmp/cache/*.js
+tmp/cache/*.css
+tmp/cache/*.cache
+tmp/cache/contentcache.php
+tmp/templates_c/*.php
+config.php
+_notes
+*.psd
+*.zip
+*.pkg
+*.dmg
+*.tar.gz
+*.fla
